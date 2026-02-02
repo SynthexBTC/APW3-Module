@@ -13,6 +13,7 @@ to make it appear as if it were a genuine S19/S21 PSU.
 - Simulates many different APW PSUs.
 - Controls the output voltage with high precision in 128 steps from 12V to 14V.
 - Continuous monitoring of the output voltage is provided by a dedicated ADC input.
+- 1500 Vrms Isolation between Control Board and PSU control.
 
 <img src="images/APW3 Module - module.jpg" alt="APW3 Module" width="500">
 
