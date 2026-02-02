@@ -26,7 +26,8 @@ Solder the two black wires.
 
 One wire on the left hole and the other wire on the middle and/or right hole (as seen in the photo).
 
-Very important : Make sure you have made good and clean solder joints.<br>
+### Very important
+Make sure you have made good and clean solder joints.<br>
 It is crucial that the cables do not become detached when the PSU is powered on !<br>
 This could destroy the PSU.
 
@@ -46,3 +47,10 @@ To finish, put the cover back in place<br>
 and tape the module to the front right side.
 
 <img src="/images/APW3 Module - Installation View 001.jpg" width="800">
+
+### Very important
+When removing the cover to install the hashboard power cables,<br>
+<b><u>BE EXTREMELY CAREFUL</u></b> not to pull out the small wires on the module !<br>
+Handle the cover with extreme care.
+
+
